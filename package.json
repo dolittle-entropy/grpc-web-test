@@ -1,0 +1,12 @@
+{
+  "name": "grpc-web-test",
+  "version": "0.0.0",
+  "repository": "https://github.com/dolittle-entropy/grpc-web-test.git",
+  "author": "Dolittle",
+  "license": "MIT",
+  "workspaces": [ "manual" ],
+  "private": true,
+  "dependencies": {
+    "@dolittle/contracts.web": "^7.4.1-elrond.0"
+  }
+}
